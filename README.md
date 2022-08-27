@@ -19,7 +19,7 @@
   ### - Permite visualizar as alterações feitas.
   
   ## git pull
-  ### - Baixa as alterações no repositório remoto.
+  ### - Baixa as alterações no repositório remoto local.
   
   ## git clone
   ### - para clonar a pasta do repositório remoto.
