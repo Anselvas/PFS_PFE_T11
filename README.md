@@ -1,2 +1,3 @@
-# Titulo 1: São Paulo
-# Titulo 2: Lapa
+# Comandos iniciais
+  ## git init
+  ### cria um arquivo de texto dentro do repositório;
