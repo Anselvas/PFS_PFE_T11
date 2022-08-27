@@ -1,3 +1,3 @@
 # Comandos iniciais
-  ## git init
-  ### cria um arquivo de texto dentro do repositório;
+  ## git init:
+  ### Cria um arquivo de texto dentro do repositório;
