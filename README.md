@@ -36,8 +36,8 @@
   ## git remote add origin
   ### - Informa a pasta remota.
   
-   ## git checkout
-  ### - criar uma branch ou mudar para main ou outra branch
+   ## git checkout main
+  ### - Mudar para main ou outra branch
   
    ## git reset --hard
   ### - descarta um commit especifico através do code deste
@@ -50,6 +50,9 @@
   
    ## git config --global user.email "email"
   ### - configuração para identificar que faz a alteração por email no commit.
+  
+   ## git branch login
+  ### - cria uma copia da main que se está
   
   
   
