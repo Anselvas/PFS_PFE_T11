@@ -7,7 +7,7 @@
   ### - Verifica o status das alterações realizadas no repositório.
   
   ## git add .
-  ### - Adiciona todos os arquivos ao histórico do projeto, na staging.
+  ### - Adiciona todos os arquivos alterados ao histórico do projeto, na staging.
   
   ## git commid 
   ### - Registra ou salva a alteração no repositório.
