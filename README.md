@@ -48,7 +48,7 @@
    ## git config --global user.name "nome usuário"
   ### - configuração para identificar quem faz a alteração no commit
   
-    ## git config --global user.email "email"
+   ## git config --global user.email "email"
   ### - configuração para identificar que faz a alteração por email no commit.
   
   
