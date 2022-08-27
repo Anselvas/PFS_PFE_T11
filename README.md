@@ -52,7 +52,7 @@
   ### - configuração para identificar que faz a alteração por email no commit.
   
    ## git branch login
-  ### - cria uma copia da main que se está
+  ### - cria uma copia da main que se está com nome login.
   
   
   
