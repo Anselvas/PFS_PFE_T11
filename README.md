@@ -25,7 +25,7 @@
   ### - para clonar a pasta do repositório remoto.
   
   ## git push origin main
-  ### - Publica as alterações no repositório remoto.
+  ### - Publica as alterações no repositório local para o servidor.
   
   ## git push origin login
   ### - alterações estão sendo feitas no ramo criado do repositório remoto.
