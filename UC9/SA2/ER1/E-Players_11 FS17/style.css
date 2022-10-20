@@ -1,8 +1,11 @@
+ @import url('https://fonts.googleapis.com/css2? família= Roboto &family= Titillium+Web & display=swap');
+
 /*CSS Reset*/
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "roboto";
 }
 
 header{
@@ -38,18 +41,12 @@ header{
 
 
 /* Banner */
-.pilotos{
-    background:url(img/Imagem_Banner.svg);
-    width: 553px;
-    height: 427px;
-    margin: left 360px;
-        
-}
+
 
 .banner{
-    width: 100%;
+    
     height:427px;
-    background:url(img/Rectangle2.png);
+    background:url(img/Banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -57,55 +54,122 @@ header{
     
 }   
 
+.conteudo_banner{
+    width: 437px;
+    height: 222px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
 
-.botao{
-    width: 220.25px;
-    height: 61.18px;
-    padding: 16px 32px;
+.conteudo_banner a{
+   
+    padding: 13px;
+    font-family: "roboto";
     text-decoration: none;
-    font-size: 24px;
-    font-family: sans-serif;
+    font-size: 25px;
     color: white;
     cursor: pointer;
     display: inline-block;
-    margin-top: 46px;
-    margin-left: 764px;
     background-color:#960706;
-    border-radius: 9px;
+    border-radius: 8px;
+    width: 220px;
+    height: 61px;
+    text-align: center;
     
 }
 
-.titulo{
-    width: 520px;
-    padding: 4px;
-    text-decoration: none;
-    font-family: sans-serif;
-    font-size: 56px;
-    display: inline-block;
-    margin-top:  132px;
-    margin-left: 682px;
-    color:white;
- }
 
- .subtitulo{
-    width: 520px;
-    padding: 0px;
-    text-decoration: none;
-    font-family: Arial;
-    font-size: 21px;
-    display: inline-block;
-    margin-top:  px;
-    margin-left:690px;
-    color:white;
- }
+.posicionamento_banner{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
 
-.a{
-    color:white;
-    font-family: Arial;
-    font-weight: bold;
-    text-decoration: none;
-    font-size: 55px;
-    text-align: center;
-   
+
 }
+
+.conteudo_banner h1{
+    width: 100%;
+    font-family: "Roboto";
+    font-style: oblique;
+    text-decoration: none;
+    font-size: 66px;
+    
+    color:white;
+ }
+
+ .conteudo_banner p{
+    width: 100%;
+    text-decoration: none;
+    font-family: "roboto";
+    font-size: 25px;
+    color:white;
+ }
+
+/*jogos*/
+
+ .jogos{
+    height: 121px;
+    background-color: #110606;
+  
+} 
+
+.posicionamento_jogos{
+    height: 100%;
+     }
+
+
+.posicionamento_card{
+    width: 100%;
+    height:100%;
+    padding-top: 10px;
+    
+} 
+
+.container{
+    max-width: 1200px;
+}
+
+
+
+
+
+
+.card{
+    width: 100%;
+    height:798px;
+    margin-top: 0px;
+    background-color:#131111;
+    
+} 
+
+.titulo_jogos{
+    text-decoration: none;
+    font-size: 27px;
+    display: inline-block;
+    margin-top:  0px;
+    color:white;
+ }
+
+.card_um{
+    width: 215px;
+    height: 333px;
+    margin-top: 16px;
+    background:url(img/Rectangle_card.png);
+    background-repeat: no-repeat;
+    background-position: center;
+      
+} 
+
+.imagem_jogo{
+    width: 215px;
+    height: 165px;
+    margin-top: 0px;
+    background:url(img/Imagem_jogo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+      
+} 
 
