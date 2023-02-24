@@ -69,6 +69,7 @@ Fluxo básico (FB)
     Carregamento correto da página
     Possibilidade de inserção e visualização dos caracteres alfa numéricos digitados
     Listar os itens escolhidos com o termo selecionado.
+<<<<<<< HEAD
 
 
 
@@ -76,3 +77,5 @@ Fluxo básico (FB)
 
 
 
+=======
+>>>>>>> 48f62de54f1fda90fcce12468a85fc4faf9f050f
