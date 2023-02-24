@@ -1,6 +1,9 @@
 README-ER1-UC11-TESTE-MANIA
+
 Planejamento
+
 Plano de testes
+
 Objetivo
 Teste de navegabilidade e usuabilidade e algoritmo de automatização.
 Escopo Teste de navegabilidade para site E-Players. Teste de usuabilidade e botão de buscar cursos e produtos. Algoritmo simulando o usuário, acessando a pagina inicial da plataforma e interagindo com busca de campo, cursos ou produtos. Foram feitas as codificações para login com email e senhas. Realizado teste de erros de email e senhas. Teste final no eclipse abrindo o navegador e autenticando os emails e senhas foram confirmadas com sucesso.
@@ -11,10 +14,12 @@ Ferramentas utilizadas
 Etapa de teste Planejamento de teste - Desenho de teste - Execução de teste.
 Ferramenta Processador de texto - Eclipse IDE - Java
 Proprietário Microsoft - Eclipse Fundation - Oracle
+
 Sistema
 Recurso Código de automatizador de Teste - Repositório de Testes
 Aplicação/equipamento Java - Selenium e JUnit
 Cronograma Desenvolvimento em aula e pós.
+
 Caso teste
 Refere-se à utilização do campo de busca de cursos e produtos com o termo escolhido.
 Fluxo básico (FB)
