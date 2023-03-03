@@ -20,9 +20,9 @@ public class TesteBuscaCursos {
 	
 	@Test 
 	public void testeNavegador() {
-		driver.get("https://www.kalunga.com.br/");
+		driver.get("https://informatica.sp.senai.br");
 		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-		driver.findElement(By.id("txtBuscaProd")).sendKeys("ssd 480gb");
+		driver.findElement(By.id("txtBuscaProd")).sendKeys("gestão");
 		driver.findElement(By.id("btnPesquisa")).click();
 		}
 
