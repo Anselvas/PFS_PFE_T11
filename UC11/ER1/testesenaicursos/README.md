@@ -159,6 +159,26 @@ Webdriver: recurso do selenium para a realização dos testes automatizados dent
 
 Os testes de códigos JAVA a seguir:
 
+public class TesteBuscaCursos {
+	private WebDriver driver;
+	
+	@Before 
+	public void abrirNavegador() {
+		System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\chromedriver\\chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+	}
+	
+	@Test 
+	public void testeNavegador() {
+		driver.get("https://informatica.sp.senai.br");
+		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+		driver.findElement(By.id("txtBuscaProd")).sendKeys("gestão");
+		driver.findElement(By.id("btnPesquisa")).click();
+		}
+
+}
+
 
 
 
