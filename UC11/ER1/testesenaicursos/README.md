@@ -38,22 +38,22 @@ site SENAI
 4. Desenho do teste............................................................................................................…….... 6.
 
 Plano de testes
-       2.1 Introdução
+       2.1. Introdução
 Testar de usabilidade e algorítimo de botão de buscar cursos no site https://informatica.sp.senai.br e suas funcionalidades
 
-       2.1.2 Objetivo
+       2.1.2. Objetivo
             ▪ Identificação dos componentes que serão testados.
     • Listar os requisitos recomendados para o teste.
     • Descrever as estratégias de testes que serão utilizadas. 
     • Identificar os recursos necessários para a realização dos testes. 
     • Teste de navegabilidade e usabilidade e algoritmo de automatização.
 
-       2.1.3 Escopo 
+       2.1.3. Escopo 
 Teste de navegabilidade e usabilidade e algoritmo de automatização para site https://informatica.sp.senai.br. Teste de usabilidade e botão de buscar termo por “gestão”, obtendo o resultados os cursos. Algoritmo simulando o usuário, acessando a página inicial da plataforma e interagindo com busca de campo, cursos, confirmadas com sucesso.
-	2.2 Requisitos a Testar
+	2.2. Requisitos a Testar
 Teste com foco a busca de cursos nas plataformas  SENAI, com entento o algoritmo de teste que para simular o usuário, ao acessar a página home das plataformas, interaja com o campo de busca, procure pelo termo “gestão” e obtenha como resultado os cursos com esta palavra-chave, com sucesso.
 
-	2.3 Tipos de Teste
+	2.3. Tipos de Teste
 Testes realizados em nível de interface do usuário, espelhando o fluxo de interações do usuário no sistema, o uso de campo de busca de cursos, serão testados os atributos de funcionalidade e confiabilidade sem apresentar erro, utilizando o termo de buscar “gestão” traga os resultados de cursos.
 
 	
@@ -85,7 +85,7 @@ Computador para desenvolvimento dos testes
 
 
  
- 	2.4.1 Cronograma 
+ 	2.4.1. Cronograma 
 Tarefa
 Data início
  Data término
@@ -113,7 +113,7 @@ FB3 - O usuário digita o termo "gestão".
 FB4 - O usuário clica na lupa.
 FB5 - Ousuário visualiza o resultado de busca pelo termo "gestão".
 
-3.1 Cenário
+3.1. Cenário
 Caso de teste
 Entrada
 Resultado esperado
