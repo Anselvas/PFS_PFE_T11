@@ -33,7 +33,8 @@ E-PLAYERS
 3. Caso de testes................................................................................................................……...... 5
 4. Desenho do teste................................................................................................................…….... 6
 
-Plano de testes.
+Plano de testes
+
        2.1 Introdução
 Testar de usabilidade e algorítimo de botão de buscar , assim como: testes de e-mail e senhas https://e-players.com.br e suas funcionalidades
 
