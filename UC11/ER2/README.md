@@ -140,6 +140,7 @@ Acesso ao conteúdo da plataforma
 	
 
 	4. Desenho do teste
+	
 Testes automatizados segue as ferramentas usadas:
 
 Selenium:  framework utilizado para testes de aplicações web que permite automatização do navegador, Java como linguagem de programação.
@@ -147,6 +148,7 @@ Webdriver: recurso do selenium para a realização dos testes automatizados dent
  Eclipse: no desenvolvimento para a execução da automação, configurado com o pacote de utilitários JAVA JDK-8 e o gerenciador de dependências Apache Maven.
 
 Os testes de códigos JAVA a seguir:
+
 public class testeSenhas {
     private WebDriver driver;
     
