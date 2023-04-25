@@ -66,6 +66,8 @@ switch (opcao)
                         Console.WriteLine($"Digite o nome da pessoa física que deseja cadastrar");
                         novaPf.nome = Console.ReadLine ();
 
+                        
+
                         bool dataValida;
 
                         do
@@ -86,6 +88,8 @@ switch (opcao)
                         }
 
                         } while (dataValida == false);
+
+                        /*
 
                         Console.WriteLine($"Digite o número do cpf");
                         novaPf.cpf = Console.ReadLine ();
@@ -115,7 +119,19 @@ switch (opcao)
                         }
                         novaPf.endereco = novoEnd;
 
-                        listaPf.Add(novaPf);
+                        //listaPf.Add(novaPf);
+                        
+                        
+                        */
+
+                        using (StreamWriter sw = new StreamWriter($"{novaPf.nome}.txt"))
+                        {
+                            sw.WriteLine(novaPf.nome);
+                            sw.WriteLine(novaPf.dataNascimento);
+                        }
+
+
+
                         Console.ForegroundColor = ConsoleColor.DarkGreen;
                         Console.WriteLine($"Cadastro realizado com sucesso!!");
                         Thread.Sleep(3000);
@@ -125,6 +141,8 @@ switch (opcao)
 
                 case "2":
                     Console.Clear();
+
+                    /*
                     if(listaPf.Count > 0)
                     {
                        foreach (PessoaFisica cadaPessoa in listaPf)
@@ -153,6 +171,17 @@ switch (opcao)
                          Console.WriteLine($"Lista vazia!!");
                         Thread.Sleep(3000);
                     }
+                    */
+                    using (StreamReader sr = new StreamReader($"Anselmo.txt"))
+                        {
+                            string linha;
+                            while ((linha = sr.ReadLine())!= null)
+                            {
+                                Console.WriteLine($"{linha}");
+                            }
+                        }
+                        Console.WriteLine($"Aperte 'Enter para continuar...");
+                        Console.ReadLine();
 
                     break;
 
@@ -173,12 +202,13 @@ switch (opcao)
 
 
     case "2":
+        
         PessoaJuridica metodoPj = new PessoaJuridica();
         PessoaJuridica novaPj = new PessoaJuridica();
         Endereco novoEndPj = new Endereco();
 
-        novaPj.nome = "Nome PJ";
-        novaPj.cnpj = "00.000.000/0001-00";
+        novaPj.nome = "Eletro Tec Informatica";
+        novaPj.cnpj = "02.135.003/0001-03";
         novaPj.razaoSocial = "Razao Social PJ";
         novaPj.rendimento = 5000;
 
@@ -189,6 +219,23 @@ switch (opcao)
 
         novaPj.endereco = novoEndPj;
 
+        metodoPj.inserir(novaPj);
+
+        List<PessoaJuridica> listaPj = metodoPj.Ler();
+        {
+            Console.Clear();
+            Console.WriteLine();
+            Console.WriteLine(@$"
+            Nome: {novaPj.nome}
+            CNPJ: {novaPj.cnpj}
+            Razao Social: {novaPj.razaoSocial}
+            ");
+
+            Console.WriteLine($"Aperte 'Enter' para continuar...");
+            Console.ReadLine();
+        }
+
+        /*
         Console.Clear();
 
         Console.WriteLine(@$"
@@ -205,8 +252,10 @@ switch (opcao)
             ");
             Console.WriteLine($"Aperte 'Enter' para continuar...");
             Console.ReadLine();
-        break;
 
+            */
+        break;
+        
         
     case "0":
         BarraCarregamento("Finalizando ", 200);
