@@ -8,39 +8,39 @@ namespace Atividade1.Classes
         public string ?cnpj { get; set; }
         public string ?razaoSocial { get; set; }
 
-        public String caminho { get; private set;} = "Database/PessoaJuridica.csv";
+        public string caminho { get; private set;} = "Database/PessoaJuridica.csv";
 
         public override float PagarImposto(float rendimento)
         {
-            /* 
-            Rendimentos até 3000 vai pagar 3%
-            Rendimentos de 3001 até 6000 vai pagar 5%
-            Rendimentos de 6001 até 10000 vai pagar 7%
-            Rendimentos acima de 10000 vai pagar 9%
+            /*
+                Rendimentos até 3000 vai pagar 3%
+                Rendimentos de 3001 até 6000 vai pagar 5%
+                Rendimentos de 6001 até 10000 vai pagar 7%
+                Rendimentos acima de 10000 vai pagar 9%
             */
             float imposto;
-            if (rendimento <= 3000)
+            if(rendimento <= 3000)
             {
                 imposto = rendimento * 0.03f;
-                return imposto;
+                return imposto; 
             }
-            else if (rendimento > 3000 && rendimento <= 6000)
+            else if(rendimento > 3000 && rendimento <= 6000)
             {
                 imposto = rendimento * 0.05f;
                 return imposto;
             }
-            else if (rendimento > 6000 && rendimento <= 10000)
+            else if(rendimento > 6000 && rendimento <= 10000)
             {
-                imposto =  rendimento * 0.07f;
+                imposto = rendimento * 0.07f;
                 return imposto;
             }
-            else
+            else 
             {
                 imposto = rendimento * 0.09f;
                 return imposto;
             }
-
         }
+
         public bool ValidarCnpj(string cnpj)
         {
 
@@ -71,7 +71,7 @@ namespace Atividade1.Classes
             return false;
         }
 
-        public void inserir(PessoaJuridica pj)
+        public void Inserir(PessoaJuridica pj)
         {
             VerificarPastaArquivo(caminho);
 
@@ -82,26 +82,30 @@ namespace Atividade1.Classes
 
         public List<PessoaJuridica> Ler()
         {
-            List<PessoaJuridica> listaPj= new List<PessoaJuridica> ();
-            String[] linhas = File.ReadAllLines(caminho);
+            List<PessoaJuridica> listaPj = new List<PessoaJuridica>();
+
+            string[] linhas = File.ReadAllLines(caminho);
 
             foreach (string cadaLinha in linhas)
             {
                 string[] atributos = cadaLinha.Split(",");
 
                 PessoaJuridica cadaPj = new PessoaJuridica();
-
+                
                 cadaPj.nome = atributos[0];
                 cadaPj.cnpj = atributos[1];
                 cadaPj.razaoSocial = atributos[2];
 
                 listaPj.Add(cadaPj);
-
-
             }
 
             return listaPj;
-
         }
     }
 }
+
+
+
+           
+
+        
