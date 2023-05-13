@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="qualquernomedisponivel" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Meus\ Backups\\PROGRAMADOR\ FULL\ STACK\ -\ SENAI\\AULAS\\MODULO-2\ BACK-END\\UC12\ -\ CODIFICAÇÃO\ PARA\ BACK\ -\ END\\SA3\\API\ DO\ PROF\ LOSANO\\Chapter\\Chapter\.WebApi\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

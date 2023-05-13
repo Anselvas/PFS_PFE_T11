@@ -1,0 +1,65 @@
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\appsettings.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.exe
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.deps.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.runtimeconfig.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\ref\Chapter.WebApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.pdb
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\Chapter.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\Chapter.WebApi.StaticWebAssets.xml
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\scopedcss\bundle\Chapter.WebApi.styles.css
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csproj.CopyComplete
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\ref\Chapter.WebApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.pdb
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\web.config
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\web.config
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\appsettings.Development.json
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\appsettings.json
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.StaticWebAssets.xml
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.exe
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.deps.json
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.runtimeconfig.json
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.runtimeconfig.dev.json
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Chapter.WebApi.pdb
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csproj.AssemblyReference.cache
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.AssemblyInfoInputs.cache
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.AssemblyInfo.cs
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csproj.CoreCompileInputs.cache
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\scopedcss\bundle\Chapter.WebApi.styles.css
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\Chapter.WebApi.StaticWebAssets.Manifest.cache
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\Chapter.WebApi.StaticWebAssets.Pack.cache
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\msbuild.Chapter.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\msbuild.build.Chapter.WebApi.props
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\msbuild.buildMultiTargeting.Chapter.WebApi.props
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\staticwebassets\msbuild.buildTransitive.Chapter.WebApi.props
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.RazorTargetAssemblyInfo.cache
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.csproj.CopyComplete
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\refint\Chapter.WebApi.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.pdb
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\Chapter.WebApi.genruntimeconfig.cache
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\ref\Chapter.WebApi.dll

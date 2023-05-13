@@ -1,0 +1,12 @@
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Chapter.WebApi.exe
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\web.config
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Chapter.WebApi.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Chapter.WebApi.deps.json
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Chapter.WebApi.runtimeconfig.json
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Chapter.WebApi.pdb
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Meus Backups\PROGRAMADOR FULL STACK - SENAI\AULAS\MODULO-2 BACK-END\UC12 - CODIFICAÇÃO PARA BACK - END\SA3\API DO PROF LOSANO\Chapter\Chapter.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
