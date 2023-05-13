@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "DyfngUVIUk0uAO8/Ob5qTif4YmnHtKulW95uL6GIvfo=",
+  "Source": "Projeto_Web_Lh_Pets_versão_1",
+  "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web_Lh_Pets_versão_1\\wwwroot",
+      "Source": "Projeto_Web_Lh_Pets_versão_1",
+      "ContentRoot": "C:\\Meus Backups\\PROGRAMADOR FULL STACK - SENAI\\AULAS\\MODULO-2 BACK-END\\UC12 - CODIFICAÇÃO PARA BACK - END\\SA3\\SA3 - ATIVIDADE2 - PROJETO WEB LH-PETS\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Meus Backups\\PROGRAMADOR FULL STACK - SENAI\\AULAS\\MODULO-2 BACK-END\\UC12 - CODIFICAÇÃO PARA BACK - END\\SA3\\SA3 - ATIVIDADE2 - PROJETO WEB LH-PETS\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web_Lh_Pets_versão_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Meus Backups\\PROGRAMADOR FULL STACK - SENAI\\AULAS\\MODULO-2 BACK-END\\UC12 - CODIFICAÇÃO PARA BACK - END\\SA3\\SA3 - ATIVIDADE2 - PROJETO WEB LH-PETS\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
